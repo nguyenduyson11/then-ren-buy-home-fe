@@ -1,0 +1,10 @@
+.form-create-post {
+  width: 750px;
+  margin: 50px auto;
+  padding: 20px;
+}
+@media screen and (max-width: 767px) {
+  .form-create-post {
+    width: 400px;
+  }
+}

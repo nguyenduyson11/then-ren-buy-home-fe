@@ -1,0 +1,8 @@
+.info-items{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.info-items > a{
+  color: black;
+}
