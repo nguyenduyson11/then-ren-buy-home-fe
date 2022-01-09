@@ -36,7 +36,7 @@ export default function Index() {
             Nơi tốt nhất để tìm kiếm nhà
           </p>
           <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-            Đến với dịch vụ của chúng tôi bạn chỉ cần nhấc máy và gọi 0854083118 sẽ có nhân viên tư vấn cho bạn mọi lúc mọi nơi.
+            Đến với dịch vụ của chúng tôi bạn chỉ cần nhấc máy và gọi 0379.225.379 sẽ có nhân viên tư vấn cho bạn mọi lúc mọi nơi.
           </p>
         </div>
 
