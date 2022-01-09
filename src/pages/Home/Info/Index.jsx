@@ -4,25 +4,25 @@ const features = [
   {
     name: 'Toàn thành phố Đà Nẵng',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Chúng tôi sẽ giúp bạn tìm kiếm những ngôi nhà trên các quận/ huyện tại thành phố Đà Nẵng',
     icon: GlobeAltIcon,
   },
   {
     name: 'Giá cả hợp lý',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Giá cả tại đây, nơi chúng tôi cam kết sẽ hổ trợ bạn một cách tốt nhất ',
     icon: ScaleIcon,
   },
   {
     name: 'Nhanh như chớp',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Với đội ngũ thành viên đông đảo chúng tôi sẽ luôn hổ trợ kịp thời nhanh chóng, mọi lúc mọi nơi.',
     icon: LightningBoltIcon,
   },
   {
     name: 'Hổ trợ mua, bán nhà',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Nếu bạn có nhu cầu mua, bán hay thuê nhà, đừng ngần ngại hay nhấc máy và alo cho chúng tôi.',
     icon: AnnotationIcon,
   },
 ]
@@ -32,7 +32,6 @@ export default function Index() {
     <div className="py-12 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center">
-          <h2 className="text-base text-indigo-600 font-semibold tracking-wide uppercase">Tâm Land</h2>
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
             Nơi tốt nhất để tìm kiếm nhà
           </p>

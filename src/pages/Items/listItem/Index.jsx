@@ -17,7 +17,7 @@ function Index() {
     try {
       setError('');
       setLoading(true);
-      const response = await getItems(filter);
+      const response = await getItems({...filter, limit: 100,  sort: 'desc'});
       setPosts(response.data.data);
       setLoading(false);
     } catch (error) {
